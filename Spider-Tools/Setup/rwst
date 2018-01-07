@@ -1,0 +1,34 @@
+#!/data/data/com.termux/files/usr/bin/bash
+#
+# 	<===      RWST     ===>
+#
+#  Name 	:  RWST
+#  Platform	:  Android Termux
+#  Code		:  Python
+#  Sec.Code	:  8h4i
+#  Coded by	:  Sutariya Parixit
+#  Site 		:  bhai4you.blogspot.com
+#  Date 		:  7-Jan-2018 (HNY!!!)
+#
+#
+#
+# 	<=== WARNING ===>
+#
+# Do Not Copy Or Modify Without Permission..!!!
+#
+#	<=== WARNING ===>
+#
+#
+#           ___[RWST SETUP]___
+#
+#
+clear
+cd $HOME
+cd RWST
+cd Spider-Tools
+cd src
+cd rwst
+python2 rwst.py
+#
+#
+#	Everything is Possible.!!!
