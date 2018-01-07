@@ -51,6 +51,7 @@ cd $HOME
 cd RWST
 cd Spider-Tools
 cd Setup
+chmod +x rwst
 mv rwst /data/data/com.termux/files/usr/bin
 echo
 cd $HOME
